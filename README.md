@@ -13,7 +13,3 @@ Application console en langage C permettant de créer, afficher et supprimer des
 - Suppression ciblée d'une tâche par ID avec libération mémoire immédiate.
 - Nettoyage complet de la mémoire à la fermeture du programme.
 
-## Compilation et exécution
-```bash
-gcc main.c -o gestion_taches
-./gestion_taches
